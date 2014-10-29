@@ -7,7 +7,7 @@ BeginPackage["PatternUtilities`"]
 (*Usage messages*)
 
 
-HoldAllSubpatterns::usage = 
+HoldAllSubpatterns::usage =
 "\
 HoldAllSubpatterns[expr] \
 returns expr with every subexpression wrapped with HoldPattern."
